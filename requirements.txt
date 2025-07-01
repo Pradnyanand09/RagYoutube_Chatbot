@@ -1,0 +1,16 @@
+# Google Gemini
+google-generativeai
+langchain-google-genai
+
+# LangChain core and community
+langchain-core
+langchain-community
+
+# Embedding model
+sentence-transformers
+
+# Vector database
+faiss-cpu
+
+# Environment config
+python-dotenv
